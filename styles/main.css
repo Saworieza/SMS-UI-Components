@@ -1,0 +1,28 @@
+table{
+	font-size: 10px;
+}
+table td{
+	padding:.25rem !important;
+	min-width: 40px;
+}
+.fa{
+	font-size: 20px;
+}
+.fa-caret-down{
+	color: red;
+	position:relative;
+	top: 4px;
+} 
+.fa-caret-up{
+	color: #4cbb17;
+	position:relative;
+	top: 4px;
+}
+/*thead tr td{
+	transform: rotate(270deg);
+	position: relative;
+	margin-left: 25px;
+}*/
+.stud_name{
+	width: 150px !important;
+}
