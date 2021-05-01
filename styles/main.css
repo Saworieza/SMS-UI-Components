@@ -26,3 +26,6 @@ table td{
 .stud_name{
 	width: 150px !important;
 }
+#chartContainer{
+	background: black;
+}
